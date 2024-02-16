@@ -13,3 +13,5 @@ This example exercise covers following topics:
 7. How to sort arguments and arrays in asc and desc order.
 8. How to create a bar chart.
 
+**Live notebook is available at https://colab.research.google.com/drive/15f96tkTP9-WyiLI23JnIzM94PlK2KG_s?usp=sharing**
+
